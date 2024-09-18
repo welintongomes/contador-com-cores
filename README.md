@@ -1,7 +1,7 @@
 este é um aplicativo simples que tem a intenção de mostrar o uso de várias funcionalidades do java script 
-|--------------------------------------------------------|
+
    https://welintongomes.github.io/contador-com-cores/
-|--------------------------------------------------------|
+
 * querySelector
 * addEventListener
 * função 'click'
