@@ -1,4 +1,4 @@
-este é um aplicativo simples que tem a intenção de mostrar o uso de várias funcionalidades do java script 
+Este é um aplicativo simples que tem a intenção de mostrar o uso de várias funcionalidades do java script
 
    https://welintongomes.github.io/contador-com-cores/
 
@@ -10,6 +10,6 @@ este é um aplicativo simples que tem a intenção de mostrar o uso de várias f
 ------------------------------------------------------------------------------------------  
 neste site temos um contador que incrementa e decrementa os numeros com um limite -10 a 10
 também temos cores para indicar quando os números estão  negativos neutro ou positivo
-* 0 branco
-* negativos vermelho
-* positivos verde
+* 0 $${\color{white}branco}$$
+* negativos $${\color{red}vermelho}$$ 
+* positivos $${\color{green}verde}$$
